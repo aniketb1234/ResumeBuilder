@@ -7,10 +7,8 @@ export default function Footer() {
         <footer className={styles.footer}>
             <div className="container">
                 <div className={['row', styles.footerNav].join(' ')}>
-                    <div className="col-md-4">
-                        <Link href="/">
-							<h3 style={{fontWeight:"600",color:"white"}}>Resume Builder</h3>
-                        </Link>
+					<div className="col-md-4">
+                        <h3 style={{ fontWeight: 600, color: 'white' }}>Resume Builder</h3>
                     </div>
                     <div className="col-md-4">
                         <ul>
