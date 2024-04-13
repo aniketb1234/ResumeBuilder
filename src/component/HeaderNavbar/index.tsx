@@ -8,10 +8,9 @@ export default function HeaderNavbar() {
     return (
         <Navbar expand="sm" className={styles.nav}>
             <section className="container">
-                <Link href="/">
-                    {/* <img src="/images/logo1.png" alt="resume logo (resume builder)" className={styles.logo} /> */}
-					<h3 style={{fontWeight:"600",color:"white"}}>Resume Builder</h3>
-                </Link>
+				<div className="col-md-4">
+                    <h3 style={{ fontWeight: 600, color: 'white' }}>Resume Builder</h3>
+                </div>
 
                 <Navbar.Toggle aria-controls="basic-navbar-nav" className={styles.navbarNav}>
                     <i className="material-icons">menu</i>
