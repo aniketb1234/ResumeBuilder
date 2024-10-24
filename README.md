@@ -1,7 +1,7 @@
 # WTF Resume (Resume Builder)
 
 Modern real-time design and 100% free resume builder.
-### [https://wtfresume.com](https://wtfresume-sramezani.vercel.app/ "wtfresume")
+### [https://resumebuilder.com](https://resume-builder-pi-gilt.vercel.app/ "wtfresume")
 
 
 ### Simple demo: 
@@ -44,7 +44,7 @@ npm run dev
 
 
 
-#### [Go to WTFresume website](https://wtfresume-sramezani.vercel.app/ "wtfresume")
+#### [Go to WTFresume website](https://resume-builder-pi-gilt.vercel.app// "wtfresume")
 
 
 ### Contributing
